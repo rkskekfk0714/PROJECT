@@ -152,7 +152,7 @@
 </style>
 <body class="bo_dy">
    <div class="login-form">
-      <h2 align="center">Administrator Login</h2>
+      <h2 align="center">Memeber Login</h2>
          <form>
             <input type="text" class="id" placeholder="ID">
              <input type="password" class="pwd" placeholder="PASSWORD">

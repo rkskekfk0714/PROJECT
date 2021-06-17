@@ -319,7 +319,17 @@ function sample4_execDaumPostcode() {
 	}
 </style>
 <body>
-  
+   <script src="https://ssl.daumcdn.net/dmaps/map_js_init/postcode.v2.js">
+    function openZipSearch() {
+  new  daum.Postcod( {
+    oncomplete: function(data) {
+      $('[name=zip]').val(data.zonecod);
+      $('[name=addr1]').val(data.address);
+      $('[name=addr2]').val(data.buildingName);
+    }
+  }).open();
+}
+  </script>
   <div class="login-form">
     <h2 align="center">Join</h2>
     <form>
