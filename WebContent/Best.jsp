@@ -135,6 +135,10 @@
   		margin-top: 40px;
   	}
   	
+  	.best_menu_wrap_more .mrr_frist {
+  		margin-top: 40px;
+  	}
+  	
   	.best_menu_wrap .mrr_frist .best_link_but {
   		 border: none;
   		 border-top: 1px solid orange;
@@ -228,7 +232,7 @@
 	<div class="best_menu_wrap_start">
    <div class="best_menu_wrap">
       <div class="best_menu_wrap_inside">
-         <h2 class="best_menu_h2">BEST</h2>
+         <h2 class="best_menu_h2">New</h2>
          <hr width = "40px" color = "gray" text-align= "center"><br>
          <div class="main_recom_recipe mrr_frist">
             <iframe width="240" height="140" src="https://www.youtube.com/embed/DnQ09ZZCjCs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

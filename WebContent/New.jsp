@@ -135,6 +135,10 @@
   		margin-top: 40px;
   	}
   	
+  	.best_menu_wrap_more .mrr_frist {
+  		margin-top: 40px;
+  	}
+  	
   	.best_menu_wrap .mrr_frist .best_link_but {
   		 border: none;
   		 border-top: 1px solid orange;
